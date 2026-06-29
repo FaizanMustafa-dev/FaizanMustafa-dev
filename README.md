@@ -9,7 +9,7 @@
 <br/><br/>
  
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faizanmustafa.netlify.app-8B5CF6?style=for-the-badge&logoColor=white)](https://faizanmustafa.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan_Mustafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-mustafa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan_Mustafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-mustafa-dev)
 [![Email](https://img.shields.io/badge/Gmail-faizan.dev12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.dev12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FaizanMustafa--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaizanMustafa-dev)
  
